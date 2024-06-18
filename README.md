@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Saundarya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Competitive+Programmer;Expert+on+Codeforces;Division+2+on+CodeChef+(4+Stars);6+Kyu(green)+on+AtCoder;Always+learning+new+things">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Electronics+and+Communications+Student;Competitive+Programmer;Expert+on+Codeforces;Division+2+on+CodeChef+(4+Stars);6+Kyu(green)+on+AtCoder;Always+learning+new+things">
   </a>
 </p>
 <br>
@@ -24,7 +24,7 @@
 - :school: I am a `Pre-Final yearite` at [Department of Electronics and Communications Engineering](https://iitg.ac.in/eee/) at [Indian Institute of Technology Guwahati](https://iitg.ac.in/) with minor in Computer Science and Engineering.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Codechef`, `Leetcode`.
-- :student: I’m currently learning `Computer Science` and `Electronics Engineering`.
+- :student: I’m currently studying computer science and electronics engineering.
 - :nerd_face: Always `learning new things`.
 <!-- - :boom: You can visit [my website](https://jazzsterq.github.io/). -->
 <br>
@@ -33,11 +33,11 @@
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 
 <p align="center">
-  <a href="https://codeforces.com/profile/jazzsterq4"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
+  <a href="https://codeforces.com/profile/jazzsterq"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
 	&emsp;
-	<a href="https://leetcode.com/jazzsterq4/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
+	<a href="https://leetcode.com/jazzsterq/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
 	&emsp;
-	<a href="https://atcoder.jp/users/dynatos"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width = 60px/></a>
+	<a href="https://atcoder.jp/users/jazzsterq"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width = 60px/></a>
 	&emsp;
 	<a href="https://www.codechef.com/users/jazzsterq"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
 </p>
@@ -72,7 +72,7 @@
   </a>
 </p>
 
-### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif" width="50px"> </picture> Data Analysis & Machine learning
+<!-- ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif" width="50px"> </picture> Data Analysis & Machine learning
 
 <p align="center">
   &emsp;
@@ -93,7 +93,7 @@
     <a href="#"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFDD00?style=plastic&logo=huggingface&logoColor=black"></a>
 
 </p>
-
+-->
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
 <p align="center"> 
   &emsp; 
@@ -135,11 +135,11 @@
     <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Vertex AI" src="https://img.shields.io/badge/Vertex%20AI-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white"></a>
+<!-- &emsp;
+  <a href="#"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFDD00?style=plastic&logo=huggingface&logoColor=black"></a>
 &emsp;
- <a href="#"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFDD00?style=plastic&logo=huggingface&logoColor=black"></a>
-&emsp;
-    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white"></a>
-</p>
+    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white"></a> -->
+</p> 
 
 
 
@@ -154,6 +154,9 @@
     <a href="#"><img alt = "Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
   &emsp;
     <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
+  &emsp;
+    <a href="#"><img alt = "Atcoder" src="https://img.shields.io/badge/atcoder-%235B4638.svg?style=plastic&logo=atcoder&logoColor=white" /></a>
+    
  
 </p>
 
@@ -164,8 +167,8 @@
     <a href="#"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=streamlit&logoColor=white"></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Chainlit-000000?style=plastic&logo=chainlit&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/PyTorch-1.9.0-black?style=plastic&logo=pytorch&logoColor=white"></a>
+<!--   &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/PyTorch-1.9.0-black?style=plastic&logo=pytorch&logoColor=white"></a> -->
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
@@ -240,7 +243,7 @@
 
 ----
 	
-[![sarthak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jazzsterq)](https://github.com/jazzsterq/github-readme-activity-graph)
+[![saundarya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jazzsterq)](https://github.com/jazzsterq/github-readme-activity-graph)
 
  
 </details>
@@ -251,6 +254,6 @@
 	
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jazzsterq&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
 
-[![@gs01's Holopin board](https://holopin.io/api/user/board?user=gs01)](https://holopin.io/@gs01)
+[![@jazzsterq's Holopin board](https://holopin.io/api/user/board?user=jazzsterq)](https://www.holopin.io/@jazzsterq#)
 	
 </details>
