@@ -258,8 +258,7 @@
 
 ----
 	
-[![saundarya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jazzsterq)](https://github.com/jazzsterq/github-readme-activity-graph)
-
+[![An image of @jazzsterq's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jazzsterq)](https://holopin.io/@jazzsterq)
  
 </details>
 
