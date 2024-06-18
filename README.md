@@ -196,35 +196,36 @@
 <div style="padding-left: 10%; padding-right: 10%; text-align: center;">
   <table style="width: 80%; margin: 0 auto;">
     <tr>
-      <td style="width: 33%;">
-        <a href="https://github.com/aryanlath/Passenger-Recovery-Optimization">
-          <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/passenger.webp" alt="Passenger Recovery Optimization" style="width: 100%; max-width: 300px; height: auto;">
+      <td style="width: 50%;">
+        <a href="https://github.com/aryanlath/Passenger-Recovery-Optimization" style="display: block; text-decoration: none; color: inherit;">
+          <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/passenger.webp" alt="Passenger Recovery Optimization" style="width: 100%; height: auto;">
           <p align="center"><b>Passenger Recovery Optimization</b></p>
         </a>
       </td>
-      <td style="width: 33%;">
-        <a href="https://github.com/sarthakkapoor44/DBMS-with-C">
-          <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/dbms2.png" alt="DBMS Using C" style="width: 100%; max-width: 300px; height: auto;">
+      <td style="width: 50%;">
+        <a href="https://github.com/sarthakkapoor44/DBMS-with-C" style="display: block; text-decoration: none; color: inherit;">
+          <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/dbms2.png" alt="DBMS Using C" style="width: 100%; height: auto;">
+          <p align="center"><b>DBMS Using C</b></p>
         </a>
-        <p align="center"><b>DBMS Using C</b></p>
       </td>
     </tr>
     <tr>
-      <td style="width: 33%;">
-        <a href="https://github.com/himanshu-skid19/google-vertex-ai-hackathon">
-          <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/career.png" alt="LLM powered Career Advisor and Interviewer" style="width: 100%; max-width: 300px; height: auto;">
+      <td style="width: 50%;">
+        <a href="https://github.com/himanshu-skid19/google-vertex-ai-hackathon" style="display: block; text-decoration: none; color: inherit;">
+          <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/career.png" alt="LLM powered Career Advisor and Interviewer" style="width: 100%; height: auto;">
           <p align="center"><b>LLM powered Career Advisor and Interviewer</b></p>
         </a>
       </td>
-      <td style="width: 33%;">
-        <a href="https://github.com/harshit089/Dark-Web-Scraper">
-          <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/darkweb.png" alt="Dark Web Scraper" style="width: 100%; max-width: 300px; height: auto;">
+      <td style="width: 50%;">
+        <a href="https://github.com/harshit089/Dark-Web-Scraper" style="display: block; text-decoration: none; color: inherit;">
+          <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/darkweb.png" alt="Dark Web Scraper" style="width: 100%; height: auto;">
           <p align="center"><b>Dark Web Scraper</b></p>
         </a>
       </td>
     </tr>
   </table>
 </div>
+
 
 
 
