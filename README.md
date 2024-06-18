@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Saundarya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Competitive+Programmer;Expert+on+Codeforces;Division+2+on+CodeChef+(4+Stars);5+Kyu(green)+on+AtCoder;Always+learning+new+things">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Competitive+Programmer;Expert+on+Codeforces;Division+2+on+CodeChef+(4+Stars);6+Kyu(green)+on+AtCoder;Always+learning+new+things">
   </a>
 </p>
 <br>
@@ -21,10 +21,10 @@
 
 <br><br>
 
-- :school: I am a `Pre-Final yearite` at [Department of Electronics and Communications Engineering](https://www.iitg.ac.in/cse/) at [Indian Institute of Technology Guwahati](https://iitg.ac.in/).
+- :school: I am a `Pre-Final yearite` at [Department of Electronics and Communications Engineering](https://iitg.ac.in/eee/) at [Indian Institute of Technology Guwahati](https://iitg.ac.in/) with minor in Computer Science and Engineering.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Codechef`, `Leetcode`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :student: I’m currently learning `Computer Science` and `Electronics Engineering`.
 - :nerd_face: Always `learning new things`.
 <!-- - :boom: You can visit [my website](https://jazzsterq.github.io/). -->
 <br>
@@ -44,7 +44,7 @@
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
-	<a href="mailto:jazzsterq4@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="mailto:sk.jazzsterq@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	&emsp;
 	<a href="https://github.com/jazzsterq"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	&emsp;
