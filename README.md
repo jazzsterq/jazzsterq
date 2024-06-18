@@ -210,9 +210,9 @@
 		<p align="center"><b>DBMS Using C</b></p>
 	</a>
     <td style="width: 33%;">
-      <a href="https://github.com/jazzsterq/Inter_iit_12.0">
-        <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/btc.png" alt="Algorithmic Trading Strategy on BTC/USDT market" style="width: 100%; max-width: 300px; height: auto;">
-        <p align="center"><b>Algorithmic Trading Strategy on BTC/USDT market</b></p>
+      <a href="https://github.com/harshit089/Dark-Web-Scraper">
+        <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/darkweb.png" alt="Dark Web Scraper" style="width: 100%; max-width: 300px; height: auto;">
+        <p align="center"><b>Dark Web Scraper</b></p>
       </a>
     </td>
   </tr>
