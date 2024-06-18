@@ -20,8 +20,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-
-- :school: I am a `Pre-Final yearite` at [Department of Electronics and Communications Engineering](https://iitg.ac.in/eee/) at [Indian Institute of Technology Guwahati](https://iitg.ac.in/) with minor in Computer Science and Engineering.
+- :school: I am currently in my pre-final year, studying [Electronics and Communications Engineering](https://iitg.ac.in/eee/) at the [Indian Institute of Technology Guwahati](https://iitg.ac.in/), with a minor in Computer Science and Engineering.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Codechef`, `Leetcode`.
 - :student: I’m currently studying computer science and electronics engineering.
@@ -164,11 +163,15 @@
 
 <p align="center">
   &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/GurobiPy-blue.svg?logo=gurobi&logoColor=white"></a>
+&emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Qiskit-purple.svg?logo=qiskit"></a>
+&emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Dwave-Systems-grey.svg?logo=dwavesystems&logoColor=white"></a>
+  &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=streamlit&logoColor=white"></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Chainlit-000000?style=plastic&logo=chainlit&logoColor=white"></a>
-<!--   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/PyTorch-1.9.0-black?style=plastic&logo=pytorch&logoColor=white"></a> -->
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
@@ -180,6 +183,9 @@
 <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/mac%20os-000000?style=plastic&logo=macos&logoColor=F0F0F0"></a>
+	 &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Kali_Linux-blue.svg?logo=kali-linux&logoColor=white"></a>
+	
 </p>
 
 <br> 
@@ -187,32 +193,47 @@
 ---
 
 ### My Projects
-
-<table>
+<table style="width: 100%;">
   <tr>
-    <td>
-      <a href="https://github.com/yourusername/project1">
-        <img src="https://via.placeholder.com/300" alt="Project 1" width="300" height="300">
-      </a>
-      <p align="center"><a href="https://github.com/jazzsterq/DBMS-with-C"><b>DBMS</b></a></p>
+    <td style="width: 33%;">
+      <a href="https://github.com/sarthakkapoor44/DBMS-with-C">
+        <img src="https://github.com/sarthakkapoor44/sarthakkapoor44/blob/main/assets/dbms2.png" alt="DBMS Using C" style="width: 100%; max-width: 300px; height: auto;">
+	</a>
+	<a href="https://github.com/sarthakkapoor44/DBMS-with-C">
+		<p align="center"><b>DBMS Using C</b></p>
+	</a>
     </td>
-    <td>
-      <a href="https://github.com/yourusername/project2">
-        <img src="https://github.com/jazzsterq/Unconditional-Image-Generation-Using-a-Diffusion-model" alt=" " width="300" height="300">
+    <td style="width: 33%;">
+      <a href="https://github.com/sarthakkapoor44/Unconditional_image_generation_using_diffusion_model">
+        <img src="https://github.com/sarthakkapoor44/sarthakkapoor44/blob/main/assets/image.png" alt="Unconditional Image Generation using Diffusion model" style="width: 100%; max-width: 300px; height: auto;">
+        <p align="center"><b>Unconditional Image Generation using Diffusion model</b></p>
       </a>
-      <p align="center"><a href="https://github.com/jazzsterq/Unconditional-Image-Generation-Using-a-Diffusion-model"><b>
-	      Unconditional-Image-Generation using Diffusion model
-      </b></a></p>
     </td>
-    <td>
-      <a href="https://github.com/yourusername/project3">
-        <img src="https://via.placeholder.com/300" alt="Project 3" width="300" height="300">
+    <td style="width: 33%;">
+      <a href="https://github.com/sarthakkapoor44/Inter_iit_12.0">
+        <img src="https://github.com/sarthakkapoor44/sarthakkapoor44/blob/main/assets/btc.png" alt="Algorithmic Trading Strategy on BTC/USDT market" style="width: 100%; max-width: 300px; height: auto;">
+        <p align="center"><b>Algorithmic Trading Strategy on BTC/USDT market</b></p>
       </a>
-      <p align="center"><a href="https://github.com/yourusername/project3"><b>Algorithmic Trading Strategy on BTC/USDT market</b>
-      </a></p>
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 33%;">
+      <a href="https://github.com/himanshu-skid19/google-vertex-ai-hackathon">
+        <img src="https://github.com/sarthakkapoor44/sarthakkapoor44/blob/main/assets/career.png" alt="LLM powered Career Advisor and Interviewer" style="width: 100%; max-width: 300px; height: auto;">
+        <p align="center"><b>LLM powered Career Advisor and Interviewer</b></p>
+      </a>
+    </td>
+    <td style="width: 33%;">
+      <a href="https://github.com/sarthakkapoor44/Pairs-Trading">
+        <img src="https://github.com/sarthakkapoor44/sarthakkapoor44/blob/main/assets/pairs.png" alt="Pairs Trading" style="width: 100%; max-width: 300px; height: auto;">
+        <p align="center"><b>Pairs Trading</b></p>
+      </a>
+    </td>
+    <td style="width: 33%;"> <!-- This can be left empty or adjusted if you have an odd number of elements -->
     </td>
   </tr>
 </table>
+
 
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
