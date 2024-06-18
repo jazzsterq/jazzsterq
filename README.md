@@ -224,12 +224,10 @@
       </a>
     </td>
     <td style="width: 33%;">
-      <a href="https://github.com/jazzsterq/Pairs-Trading">
-        <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/pairs.png" alt="Pairs Trading" style="width: 100%; max-width: 300px; height: auto;">
-        <p align="center"><b>Pairs Trading</b></p>
+      <a href="https://github.com/harshit089/Dark-Web-Scraper">
+        <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/darkweb.png" alt="Dark Web Scraper" style="width: 100%; max-width: 300px; height: auto;">
+        <p align="center"><b>Dark Web Scraper</b></p>
       </a>
-    </td>
-    <td style="width: 33%;"> <!-- This can be left empty or adjusted if you have an odd number of elements -->
     </td>
   </tr>
 </table>
