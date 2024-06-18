@@ -203,7 +203,7 @@
         </a>
       </td>
       <td style="width: 33%;">
-        <a href="https://github.com/jazzsterq/DBMS-with-C">
+        <a href="https://github.com/sarthakkapoor44/DBMS-with-C">
           <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/dbms2.png" alt="DBMS Using C" style="width: 100%; max-width: 300px; height: auto;">
         </a>
         <p align="center"><b>DBMS Using C</b></p>
