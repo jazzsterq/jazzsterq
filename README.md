@@ -272,8 +272,7 @@
 	
 </details>
 
----
-
+<!-- ---
 ## 🐍 A Snake Eating My Contributions Graph
 
 <p align="center">
@@ -282,4 +281,4 @@
 		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
 		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
 	</picture>
-</p>
+</p> -->
