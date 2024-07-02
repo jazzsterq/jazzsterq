@@ -25,7 +25,7 @@
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Codechef`, `Leetcode`.
 - :student: I’m currently studying computer science and electronics engineering.
 - :nerd_face: Always `learning new things`.
-<!-- - :boom: You can visit [my website](https://jazzsterq.github.io/). -->
+- :boom: You can visit [my website](https://jazzsterq.github.io/).
 <br>
 
 
